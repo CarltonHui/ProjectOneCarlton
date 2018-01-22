@@ -2,4 +2,4 @@
 
 import UIKit
 
-var str = "Hello, test"
+var str = "Hello, playground"
