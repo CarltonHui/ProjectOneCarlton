@@ -21,4 +21,25 @@ print ("Today it is \(celcius) degrees celcius")
 
 //Boolean Variables Coding Challenge #1
 
+var numberOne = "50"
+var numberTwo = "50"
+var numberThree = numberOne == numberTwo
+print (numberThree)
 
+//If Statement Coding Challenge #1
+
+var lengthOne = "I keep my car maintained"
+var lengthTwo = "I always clean my cat's litter box"
+let lengtha = lengthOne.characters.count
+print (lengtha)
+let lengthb = lengthTwo.characters.count
+print (lengthb)
+if lengtha > lengthb
+{
+    print ("This assignment was super easy!")
+}
+else
+{
+    print ("This asignment was very difficult!")
+}
+//Seriously though this assignment was pretty tough
